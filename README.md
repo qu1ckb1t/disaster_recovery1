@@ -52,8 +52,9 @@
 1. `На двух ВМ Linux, установил сервис Keepalived и nginx`
 2. `Написал Bash-скрипт chk_http_state.sh, который проверяет доступность порта веб-сервера и существование файла index.html в root-директории веб-сервера.`
 
-[скрипт проверки chk_http_state.sh](chk_http_state.sh)
-[конфиг keepalived](keepalived.conf)
+`[скрипт проверки chk_http_state.sh](chk_http_state.sh)`
+
+`[конфиг keepalived](keepalived.conf)`
 
 
 `Скриншоты выполнения задания2`
